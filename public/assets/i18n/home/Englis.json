@@ -1,0 +1,18 @@
+{
+    "Register": "Register",
+    "Login": "Login",
+    "LanguageBtn": "English",
+    "Flag": "83CA5B57-352A-42E7-9FF5-3D4EC284839D.svg",
+    "slogan": {
+        "row1": "Different",
+        "row2": "Travel Experience",
+        "row3": "Planning Your Trip Quick and Easy"
+    },
+    "İnputTitle": {
+        "SearchTitle": "Where you would like to go?",
+        "FirstDataİnput": "Start Data",
+        "LastDataİnput": "End Data",
+        "RoomAndGuest": "Room And Guest",
+        "Button": "Start Planning"
+    }
+}

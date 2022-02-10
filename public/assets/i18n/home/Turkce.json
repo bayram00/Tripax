@@ -1,0 +1,18 @@
+{
+    "Register": "Üye Ol",
+    "Login": "Giriş Yap",
+    "LanguageBtn": "Turkce",
+    "Flag": "Flag_of_Turkey.png",
+    "slogan": {
+        "row1": "Farklı",
+        "row2": "Seyahat tecrübesi",
+        "row3": "Seyahatinizi Hızlı ve Kolay Planlama"
+    },
+    "İnputTitle": {
+        "SearchTitle": "Nereye gitmek istersin?",
+        "FirstDataİnput": "Verileri Başlat",
+        "LastDataİnput": "Bitiş Verisi",
+        "RoomAndGuest": "oda ve misafir",
+        "Button": "Planlamaya Başlayın"
+    }
+}
